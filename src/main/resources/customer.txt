@@ -1,0 +1,7 @@
+id,firstName,lastName,birthday
+1,Stone,Barrett,1964-10-19 14:11:03
+2,Raymond,Pace,1977-12-11 21:44:30
+3,Armando,Logan,1986-12-25 11:54:28
+4,Latifah,Barnett,1959-07-24 06:00:16
+5,Cassandra,Moses,1956-09-14 06:49:28
+6,Audra,Hopkins,1984-08-30 04:18:10
